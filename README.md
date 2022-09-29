@@ -1,3 +1,9 @@
-# EDA_titanic
+# Análise de Dados da Nave Titanic
 
-Este projeto tem o objetivo de explorar uma análise de dados com relação à nave do titanic. Esta, foi submetida a metodologia CRISP-DM, para organizar as ideias da análise e tornar coesa e coerente cada passo proposto, sendo: Entendimento do Negócio, Entendimento dos Dados, Preparação dos Dados, Construção dos Modelos, Avaliação e Implementação. 
+A ```análise de dados``` é um procedimento que visa transformar números e informações em insights para a tomada de decisão. Apesar de ser usada em diferentes áreas, é no universo corporativo que a técnica ganha destaque.
+
+## Visão geral do conjunto de dados
+
+- Esta EDA foi retirada do ```kaggle```, tratando-se de prever se um passageiro foi transportado para uma dimensão alternativa durante a colisão da nave espacial Titanic com a anomalia do espaço-tempo.
+
+
